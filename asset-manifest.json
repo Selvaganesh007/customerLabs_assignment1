@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/customerLabs_assignment1/static/css/main.e75e65b8.css",
+    "main.js": "/customerLabs_assignment1/static/js/main.05db530c.js",
+    "index.html": "/customerLabs_assignment1/index.html",
+    "main.e75e65b8.css.map": "/customerLabs_assignment1/static/css/main.e75e65b8.css.map",
+    "main.05db530c.js.map": "/customerLabs_assignment1/static/js/main.05db530c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e75e65b8.css",
+    "static/js/main.05db530c.js"
+  ]
+}
